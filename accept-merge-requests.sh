@@ -38,7 +38,7 @@ done
 while read repo; do
     ID=$(echo "$repo" | jq -r ".project_id")
     IID=$(echo "$repo" | jq -r ".mr_id")
-    REF=$(echo "$repo" | jq -r ".reference | .full")
+    REF=$(echo "$repo" | jq -r ".references | .full")
 
     # ACCEPT MERGE REQUEST
     echo "Accepting merge request for $REF"

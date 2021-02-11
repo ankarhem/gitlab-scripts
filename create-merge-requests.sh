@@ -7,7 +7,7 @@
 # Based on:
 # https://gist.github.com/JonasGroeger/1b5155e461036b557d0fb4b3307e1e75
 
-BASE_PATH="https://gitlab.jetshop.se/"
+BASE_PATH="https://gitlab.example.com/"
 RAW_NAMESPACE=""
 BRANCH_NAME=""
 
