@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 
 # Documentation
-# https://docs.gitlab.com/ce/api/projects.html#list-projects
+# https://docs.gitlab.com/ee/api/container_registry.html#within-a-group
+# https://docs.gitlab.com/ee/api/container_registry.html#delete-a-registry-repository-tag
+# https://docs.gitlab.com/ee/api/container_registry.html#delete-registry-repository
 #
 # Based on:
 # https://gist.github.com/JonasGroeger/1b5155e461036b557d0fb4b3307e1e75

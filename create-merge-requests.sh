@@ -2,6 +2,7 @@
 
 # Documentation
 # https://docs.gitlab.com/ce/api/projects.html#list-projects
+# https://docs.gitlab.com/ee/api/merge_requests.html#create-mr
 #
 # Based on:
 # https://gist.github.com/JonasGroeger/1b5155e461036b557d0fb4b3307e1e75

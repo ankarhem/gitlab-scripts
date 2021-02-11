@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
 # Documentation
-# https://docs.gitlab.com/ce/api/projects.html#list-projects
+# https://docs.gitlab.com/ee/api/merge_requests.html#list-group-merge-requests
+# https://docs.gitlab.com/ee/api/merge_requests.html#accept-mr
 #
 # Based on:
 # https://gist.github.com/JonasGroeger/1b5155e461036b557d0fb4b3307e1e75
